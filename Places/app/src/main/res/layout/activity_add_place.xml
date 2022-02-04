@@ -103,6 +103,9 @@
                     android:layout_height="wrap_content"
                     android:inputType="text"
 
+                    android:focusable="false"
+                    android:focusableInTouchMode="false"
+
                     android:textColor="@color/dark_blue"
                     android:textColorHint="@color/light_blue"
                     android:textSize="16sp"
